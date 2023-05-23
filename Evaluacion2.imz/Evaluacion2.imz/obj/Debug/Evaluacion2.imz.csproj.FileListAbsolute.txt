@@ -1,0 +1,13 @@
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\obj\Debug\Evaluacion2.imz.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\obj\Debug\Evaluacion2.imz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\obj\Debug\Evaluacion2.imz.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\bin\Debug\Evaluacion2.imz.exe.config
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\bin\Debug\Evaluacion2.imz.exe
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\bin\Debug\Evaluacion2.imz.pdb
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\bin\Debug\Modelo.dll
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\bin\Debug\ServidorSocket.dll
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\bin\Debug\Modelo.pdb
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\bin\Debug\ServidorSocket.pdb
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\obj\Debug\Evaluacion2.imz.csproj.CopyComplete
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\obj\Debug\Evaluacion2.imz.exe
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Evaluacion2.imz\obj\Debug\Evaluacion2.imz.pdb

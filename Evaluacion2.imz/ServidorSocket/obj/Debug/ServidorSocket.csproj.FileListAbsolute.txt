@@ -1,0 +1,6 @@
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\ServidorSocket\bin\Debug\ServidorSocket.dll
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\ServidorSocket\bin\Debug\ServidorSocket.pdb
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\ServidorSocket\obj\Debug\ServidorSocket.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\ServidorSocket\obj\Debug\ServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\ServidorSocket\obj\Debug\ServidorSocket.dll
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\ServidorSocket\obj\Debug\ServidorSocket.pdb

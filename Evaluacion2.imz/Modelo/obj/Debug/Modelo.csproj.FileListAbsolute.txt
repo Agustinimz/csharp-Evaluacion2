@@ -1,0 +1,6 @@
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Modelo\bin\Debug\Modelo.dll
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Modelo\obj\Debug\Modelo.dll
+C:\Users\Agustin\Desktop\C# Evaluacion 2 - imz\Evaluacion2.imz\Modelo\obj\Debug\Modelo.pdb
